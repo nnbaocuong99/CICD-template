@@ -2,8 +2,7 @@
 ---
 
 1. Tạo Master VM chạy rancher image:
-- copy Vagrantfile-master ra thư mục và đổi tên thành Vagrantfile
-- cài đặt: vagrant up
+- cài đặt: `vagrant up`
 
 
 
