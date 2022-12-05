@@ -1,12 +1,15 @@
-### Java Spring template project
+###Usage
+---
 
-This project is based on a GitLab [Project Template](https://docs.gitlab.com/ee/gitlab-basics/create-project.html).
+1. create VM
+- master: 3 CPU, 4G RAM
+- node: 2 CPU, 2G RAM
 
-Improvements can be proposed in the [original project](https://gitlab.com/gitlab-org/project-templates/spring).
 
-### CI/CD with Auto DevOps
+2. install rancher on master VM
+- docker run -d --name=rancher-server --restart=unless-stopped -p 80:80 -p 443:443 --privileged rancher/rancher:v2.7
 
-This template is compatible with [Auto DevOps](https://docs.gitlab.com/ee/topics/autodevops/).
 
-I
-f Auto DevOps is not already enabled for this project, you can [turn it on](https://docs.gitlab.com/ee/topics/autodevops/#enabling-auto-devops) in the project settings.
+3. install cluster:
+- access rancher UI: https://IP
+- run rancher-agent using command, add --address `IP`'s VM
