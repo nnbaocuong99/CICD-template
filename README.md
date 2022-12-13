@@ -12,6 +12,7 @@
 based on vpost core and multi-accquire clusters, this project is going to include the following things:
 - k8s, k3s, rke (checking the logstack by ELK, prometheus is not available)
 - rancher. 
+- [Apache](https://maven.apache.org)
 - [Docker](https://www.docker.com)
 - [helm](https://helm.sh) (chart and template `yaml` files included).
 - [ArgoCD](https://argo-cd.readthedocs.io/en/stable/).
@@ -25,3 +26,4 @@ based on vpost core and multi-accquire clusters, this project is going to includ
 - check [Rancher](https://hub.docker.com/r/rancher/rancher) if u want a compatible version.
 - [Dockerfile](https://github.com/nnbaocuong99/CI-CD-template/blob/main/Dockerfile) for docker users.
 - [Dependencies](https://github.com/nnbaocuong99/CI-CD-template/blob/main/pom.xml) for jave source code in week 1.
+- check and download the: [Maven](https://maven.apache.org/download.cgi) if u wanna use the [src](https://github.com/nnbaocuong99/CI-CD-template/tree/main/src)
