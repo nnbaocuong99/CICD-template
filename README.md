@@ -1,5 +1,5 @@
 ## ✨ about: 
-- summary: imo, this will be sufficient requirements for what u will need to learn and do. / also really wanna hear others opinions abt what im missing, or not listed int his project. huge thanks.  
+- summary: imo, this will be sufficient requirements for what u will need to learn and do. / also really wanna hear others opinions abt what im missing, or not listed int his project.
 - © *nnbaocuong99 - Spagbo* 
 
 ---
@@ -7,7 +7,7 @@
 ## ✨ what's happening????😱: 
 *this is a basic CI/CD template project made by me* 
 
-👋 guys! ty for reaching and reading this, so.. heading to the point, i made this and sharing to all new users who starting to learn docker, k8s and wanna know abt the CI/CD pipeline. 
+👋 guys! huge thanks for reaching and reading this, so.. heading to the point, i made this and sharing to all new users who starting to learn docker, k8s and wanna know abt the CI/CD pipeline. 
 
 based on vpost core and multi-accquire clusters, this project is going to include the following things:
 - k8s, k3s, rke (checking the logstack by ELK, prometheus is not available)
