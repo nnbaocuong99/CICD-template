@@ -15,8 +15,8 @@
 3. Chạy rancher image trên master VM:
 - SSH vào master VM
 - kiểm tra docker đã cài đặt hay chưa: `docker version`
-- `docker run -d --name=rancher-server --restart=unless-stopped -p 80:80 -p 443:443 --privileged rancher/rancher:v2.7-091ed163cc5c53efc50bd1a580cb4e54fa097e82-linux-amd64`
-- truy cập rancher UI: `https://IP`
+- `docker run -d --name=rancher-server --restart=unless-stopped -p 80:80 -p 443:443 --privileged rancher/rancher:v2.7`
+- truy cập rancher UI: `IP`
 
 
 
