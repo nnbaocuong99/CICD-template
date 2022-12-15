@@ -11,12 +11,12 @@
 
 based on vpost core and multi-accquire clusters, this project is going to include the following things:
 - k8s, k3s, rke (checking the logstack by ELK, prometheus is not available)
-- rancher. 
+- rancher
 - [Apache](https://maven.apache.org)
 - [Docker](https://www.docker.com)
-- [helm](https://helm.sh) (chart and template `yaml` files included).
-- [ArgoCD](https://argo-cd.readthedocs.io/en/stable/).
-- [Vmbox](https://www.virtualbox.org) and my vagrant scripts to setup.
+- [helm](https://helm.sh) (chart and template `yaml` files included)
+- [ArgoCD](https://argo-cd.readthedocs.io/en/stable/)
+- [Vmbox](https://www.virtualbox.org) and my vagrant scripts to setup
 
 ---
 
