@@ -22,6 +22,4 @@
 
 4. Tạo cluster trên worker VM:
 - truy cập rancher UI
-- cấn create cluster
-- chọn kiểu custom và làm theo hướng dẫn
-- khi chạy rancher agent trên worker vm thêm thuộc tính --address worker_IP
+- add --address worker_IP
