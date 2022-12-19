@@ -1,5 +1,5 @@
 ## ✨ about this template:
-- summary: imo, this will be sufficient requirements for what u will need to learn and do. / also really wanna hear others opinions abt what im missing, or not listed int his project.
+- summary: imo, this will be sufficient requirements for what u will need to learn and do. / also really wanna hear others opinions abt what im missing, or not listed in this project. this is basic CI/CD template project for users who new to docker and starting to learn about backend and CI/CD pipline. This project included: k8s, Docker, helm, Vmbox and vagrant script.
 - *© [nnbaocuong99 - Spagbo](https://bio.link/spagbo)*
 
 ---
